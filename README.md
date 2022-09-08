@@ -1,8 +1,6 @@
 # Web scraping the President's lies in 16 lines of Python
 
-This repository contains the [Jupyter notebook](trump_lies.ipynb) and [dataset](trump_lies.csv) from Data School's [introductory web scraping tutorial](http://www.dataschool.io/python-web-scraping-of-president-trumps-lies/). All that is required to follow along is a basic understanding of the Python programming language.
-
-By the end of the tutorial, you will be able to scrape data from a static web page using the **requests** and **Beautiful Soup** libraries, and export that data into a structured text file using the **pandas** library.
+This repository contains the [Jupyter notebook](trump_lies.ipynb) and [dataset](trump_lies.csv) from Data School's [introductory web scraping tutorial](http://www.dataschool.io/python-web-scraping-of-president-trumps-lies/). All that is required to follow along is a basic understanding of the Python programming language. **THE ANALYSIS AND VISUALIZATION OF THE DATA IS NOT INCLUDED IN THE TUTORIAL**
 
 You can also [watch the tutorial on YouTube](https://www.youtube.com/watch?v=r_xb0vF1uMc&list=PL5-da3qGB5IDbOi0g5WFh1YPDNzXw4LNL&index=1).
 
