@@ -1,6 +1,6 @@
 # Web scraping the President's lies in 16 lines of Python
 
-(images/NRDC_Trump_lies)
+!(images/NRDC_Trump_lies)
 
 This repository contains the [Jupyter notebook](trump_lies.ipynb) and [dataset](trump_lies.csv) from Data School's [introductory web scraping tutorial](http://www.dataschool.io/python-web-scraping-of-president-trumps-lies/). All that is required to follow along is a basic understanding of the Python programming language. **THE ANALYSIS AND VISUALIZATION OF THE DATA IS NOT INCLUDED IN THE TUTORIAL**
 
